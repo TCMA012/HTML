@@ -1,0 +1,2 @@
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+https://developer.mozilla.org/docs/Web/API/History_API/Working_with_the_History_API#adding_and_modifying_history_entries
